@@ -3,14 +3,12 @@ There are *tons* of resources available online that will help you in learning st
 
 Note that this will be amended / added to as the semester goes on.  And if you have something you find valuable that isn't on here, please share it! 
 
-## Recommended (and free!) textbook
-[*Python Recipes for Earth Sciences* by Martin H. Trauth](https://link.springer.com/book/10.1007/978-3-031-07719-7).  PDF version is free.
-
 ## Optional, supplemental materials
 
 ### Textbooks and lecture notes
 * [*Statistical Methods for Climate Scientists* by T. DelSole and M. Tippett](https://doi.org/10.1017/9781108659055)
 * [*Statistical Methods in the Atmospheric Sciences* by Daniel S. Wilks](https://doi.org/10.1016/C2017-0-03921-6)
+* [*Python Recipes for Earth Sciences* by Martin H. Trauth](https://link.springer.com/book/10.1007/978-3-031-07719-7).  PDF version is free.
 * (older) [*Statistical Analysis in Climate Research* by Hans von Storch and Francis W. Zwiers](https://doi.org/10.1017/CBO9780511612336)
 * [*Statistics for Climate Dynamics* lecture notes by D. Dommenget (free)](https://users.monash.edu.au/~dietmard/teaching/statistics-for-climate-reserach/dommenget.statistics.lecture.notes.pdf)
 * FREE PDF! [/Bayesian Data Analysis/ by A. Gelman et al ](http://www.stat.columbia.edu/~gelman/book/)
@@ -22,6 +20,7 @@ Note that this will be amended / added to as the semester goes on.  And if you h
 ### Online courses
 * [Geo-Python course](https://geo-python-site.readthedocs.io/en/latest/index.html)
 * [*Statistics for Climate Dynamics* course by Dietmar Dommenget, University of Monash](https://users.monash.edu.au/~dietmard/teaching/statistics-for-climate-reserach/)
+* [LibreTexts statistics](https://stats.libretexts.org/)
 
 ## Computing
 This course is heavily computational.  The language used is [Python](https://www.python.org/), and most graded work is submitted as executable [Jupyter notebooks](https://jupyter.org/).

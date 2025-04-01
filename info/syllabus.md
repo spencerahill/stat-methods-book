@@ -55,7 +55,7 @@ It can be daunting to ask questions or volunteer an answer...but learning to ove
 
 In terms of the grade, this determination of participation is inherently subjective to some extent.  So, for example, you won't help yourself out by simply raising your hand constantly and asking questions just for the sake of asking them...the adage "quality over quantity" applies here.  That said, if you rarely come to class, are checked out doing things on your phone or laptop the whole time, and never ask a question or offer an answer, that's not good.
 
-Note that I see this primarily as an opportunity to bump grades slightly up (from say a B+ to an A-), not down.  At the end of the day, if you get excellent scores on your assignments, midterms, and final project, but don't participate all that much, I wouldn't bump your grade down on that basis alone.  More realistic is if you did say B-grade
+Note that I see this primarily as an opportunity to bump grades slightly up (from say a B+ to an A-), not down.  At the end of the day, if you get excellent scores on your assignments, midterms, and final project, but don't participate all that much, I wouldn't bump your grade down on that basis alone.  More realistic is if you did say B-grade work over the semester, but were otherwise a very active participant, I'd use that to justify bumping you up from a B to a B+.
 
 ### Midterms (40% total; 25% midterm 1, 15% midterm 2)
 There will be two midterms, the first covering material from roughly the first 60% of the semester, and the second covering roughly the remaining 40% (and only that 40%; the second exam is not cumulative).  These will be open-note but in-person, pencil-and-paper *only* exams (no calculators, computers, phones, etc.).
