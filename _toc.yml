@@ -19,6 +19,7 @@ parts:
       - file: lectures/linear-regression
       - file: lectures/timeseries
       - file: lectures/spectral-analysis
+      - file: lectures/glossary
   - caption: Assignments
     numbered: 4
     chapters:
