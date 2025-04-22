@@ -17,6 +17,11 @@ Note that, although the undergraduate (42000) and Master's (A4200) sections of t
 This course aims to provide you with a comprehensive understanding of statistical methods and other tools for quantitative data analysis in the Earth and Atmospheric Sciences.  We will explore topics including descriptive statistics, probability, and time series analysis, among others.  We will provide the necessary theoretical foundations for each technique introduced, but the bigger emphasis is on actually implementing and using them: by semester's end, you should be equipped with a functioning "toolbox" of statistical/quantitative tools that you both understand conceptually and can actually apply to problems you face in your research or other coursework. 
 
 ## Grading
+
+:::{warning}
+Your grade will be determined by your performance in this class, and nothing else.  Requests at the end of a semester to change your grade because of, for example, a minimum GPA requirement for a scholarship or fellowship you're on, will not be granted.  Whatever rides on your grade in this class, it's your responsibility to execute. 
+:::
+
 Your grade (A+ through F) will be based on the following four categories: homework, participation, two midterm exams, and a final project.  The percentage breakdown of the total into each category is listed in the table below, followed by more in-depth explanations of each category.
 
 There is no pre-set distribution of grades or "curve" across the class: you are not competing against your classmates, and my ideal scenario would be where every student excels and gets an A or A+.  The final grades will be curved, however, in the sense that an A grade won't necessarily fall into the standard 90-100% numerical score range, etc.  Why?  Since this is the first time the course is being taught, it's possible that scores will be higher or lower than the standard ranges (90-100% for A, 80-90% for B, etc.) overall, and at the end of the semester I will adjust all grades in the class accordingly.  But every grade will be shifted in the same direction by this process: again, you will *not* be penalized/rewarded based on how other students perform, and so it's only to your benefit to communicate with your classmates and try to help each other out. 
@@ -101,6 +106,24 @@ The goals of the [CCNY Community Standards](https://www.ccny.cuny.edu/studentaff
 ### Plagiarism and Academic Integrity
 
 Plagiarism is copying and using other people’s words without proper acknowledgment or citation as it is indicated in the CUNY Policy on Academic Integrity.  All writing submitted for this course is understood to be your original work written.  Plagiarism is unacceptable and has serious consequences that can include a failing grade.  In cases where I detect academic dishonesty (the fraudulent submission of another’s work, in whole or part, as your own), you may be subject to a failing grade for the project or the course, and in the worst case, to academic probation or expulsion. You are expected to read, understand, and adhere to [CCNY’s Policy on Academic Integrity](http://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy/).
+
+### (LLM snippets added starting spring 2024)
+From Mollick and Mollick 2024: "Although the AI's output might be deemed 'good enough,' students should hold themselves to a higher standard".  More generally. LLMs raise the stakes for the students.  If it's helpful, flip your perspective on its head.  You might think "ChatGPT let's me get off easier; I can get the same results with less effort."  Instead, in this class at least, it's basically the opposite: "ChatGPT means that the expectations are that much higher: the instructor expects me to use AI tools to do even better than I could have otherwise.  Mediocre work that I don't really understand or believe in will be graded harshly, and the bar for high-quality work has been raised even higher."  That might seem unfair.  But it's the reality of the world we're in, right now in the Fall of 2025.  It is meant to be *motivating*: just how far can you go?
+
+Types of risk associated with LLM outputs (c.f. Mollick and Mollick 2024):
+
+1. **Confabulation risks**: a.k.a. "hallucination" a.k.a. "making stuff up."  Depending on the context, these can be very easy or *very difficult* for you to spot.  **You are responsible for verifying all LLM outputs.**
+2. **Bias risks**: Based on their training data and their fine-tuning, LLMs can be biased in various ways: gender bias, other identity-based bias, political and viewpoint bias.  This can be quite difficult to spot.  For this course on statistical methods, such issues likely won't be hugely important.  Regardless, it's important to be aware of this more generally.   
+3. **Privacy risks**: Assume that anything you feed into an LLM will be later used to train future generations of the same LLM or other LLMs.  The legal status here is all shaky.  Note that doesn't necessarily mean that any humans will be reading your individual ChatGPT sessions.
+4. **Instructional risks**: an LLM might teach you material in ways that differs from how it's being taught in this class.  E.g. using different notation or slightly different definitions.  Separately, there's the single biggest danger in my mind, of you using it as a crutch that replaces your learning rather than a booster that acclerates it.
+
+There are also bigger-picture concerns one might reasonably have:
+
+1. **AI alignment**: Will we all be turned into paperclips?
+2. **Ethics** (training, job displacement):
+3. **Environmental impact**:
+
+I approach teaching broadly as follows “We now see that our mission is not instruction but rather that of producing learning with every student by whatever means work best” (Barr & Tagg, 1995, p. 13)
 
 ### ChatGPT and other AI tools
 
