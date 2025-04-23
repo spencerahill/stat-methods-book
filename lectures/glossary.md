@@ -55,6 +55,8 @@ event
 
 mutually exclusive
   
+  
+  For more: [Wikipedia page](https://en.wikipedia.org/wiki/Mutual_exclusivity)
 
 outcome
   A possible result of an {term}`experiment`.  Each *outcome* is unique from all other possible outcomes.  (More formally, we say each outcome is {term}`mutually exclusive` of all other outcomes.)
@@ -64,6 +66,19 @@ outcome
   An *outcome* differs from an {term}`event`, because an event can be *any* subset of the {term}`sample space`.  So e.g. for the dice roll "roll an even number" is a valid event, and it occurs if any of the three, mutually exclusive outcomes of rolling a 2, rolling a 4, or rolling a 6 occur.
 
   For more: [Wikipedia page](https://en.wikipedia.org/wiki/Outcome_(probability))
+
+probability distribution
+  A {term}`function` that tells you the probabilities of different {term}`outcome`s of an {term}`experiment`.
+
+  We can split this general term into two key types: the {term}`probability mass function` which is for {term}`discrete` quantities, and the {term}`probability density function` which is for {term}`continuous` quantities.
+
+  For more: [Wikipedia page](https://en.wikipedia.org/wiki/Probability_distribution)
+
+probability density function
+
+
+probability mass function
+
 
 relative frequency
   A synonym for {term}`empirical probability`.
