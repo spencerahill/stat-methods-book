@@ -54,7 +54,9 @@ event
   For example, in the case of a single dice roll, one event could be "roll a 6".  Another could be "roll an odd number;" notice that this one consists of more than one possible {term}`outcome`.
 
 mutually exclusive
-  
+  Two {term}`event`s are *mutually exclusive* if it is impossible for both to occur.
+
+  For example, in a coin flip, landing `heads` is mutually exclusive with landing `tails`: the coin can only land heads up or tails up, not both.
   
   For more: [Wikipedia page](https://en.wikipedia.org/wiki/Mutual_exclusivity)
 
