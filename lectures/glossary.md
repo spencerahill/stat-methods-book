@@ -53,6 +53,15 @@ event
 
   For example, in the case of a single dice roll, one event could be "roll a 6".  Another could be "roll an odd number;" notice that this one consists of more than one possible {term}`outcome`.
 
+independent events
+  Two {term}`event`s are *independent* if they don't influence each other.
+
+  Formally, the events $E_1$ and $E_2$ are independent if and only if $P(E_1\cap E_2)=P(E_1)P(E_2)$.
+  
+  Another way of expressing this is in terms of {term}`conditional probability`: the events $E_1$ and $E_2$ are independent if and only if $P(E_1|E_2)=P(E_1)$
+
+  For more: [Wikipedia page](https://en.wikipedia.org/wiki/Independence_(probability_theory))
+
 mutually exclusive
   Two {term}`event`s are *mutually exclusive* if it is impossible for both to occur.
 
