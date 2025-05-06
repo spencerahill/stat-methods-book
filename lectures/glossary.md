@@ -53,6 +53,9 @@ event
 
   For example, in the case of a single dice roll, one event could be "roll a 6".  Another could be "roll an odd number;" notice that this one consists of more than one possible {term}`outcome`.
 
+First axiom of probability
+  **non-negativity**: any {term}`probability` is either positive or zero. 
+
 independent events
   Two {term}`event`s are *independent* if they don't influence each other.
 
