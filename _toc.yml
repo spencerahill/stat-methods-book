@@ -9,27 +9,27 @@ parts:
       - file: info/syllabus
       - file: info/schedule
       - file: info/resources
-  - caption: Lectures
+  - caption: Chapters
     numbered: 4
     chapters:
-      - file: lectures/intro
-      - file: lectures/descriptive-statistics
-      - file: lectures/probability-theory
-      - file: lectures/hypothesis-tests
-      - file: lectures/linear-regression
-      - file: lectures/timeseries
-      - file: lectures/spectral-analysis
-      - file: lectures/glossary
-  - caption: Assignments
-    numbered: 4
-    chapters:
-      - file: assignments/hw-descriptive-statistics
-      - file: assignments/hw-data-viz
-      - file: assignments/hw-probability
-      - file: assignments/hw-hypoth-tests
-      - file: assignments/hw-lin-regress-llms
-  - caption: Final Project
-    numbered: 0
-    chapters:
-      - file: final-project/final-project
+      - file: chapters/intro
+      - file: chapters/descriptive-statistics
+      - file: chapters/probability-theory
+      - file: chapters/hypothesis-tests
+      - file: chapters/linear-regression
+      - file: chapters/timeseries
+      - file: chapters/spectral-analysis
+      - file: chapters/glossary
+  # - caption: Assignments
+  #   numbered: 4
+  #   chapters:
+  #     - file: assignments/hw-descriptive-statistics
+  #     - file: assignments/hw-data-viz
+  #     - file: assignments/hw-probability
+  #     - file: assignments/hw-hypoth-tests
+  #     - file: assignments/hw-lin-regress-llms
+  # - caption: Final Project
+  #   numbered: 0
+  #   chapters:
+  #     - file: final-project/final-project
 

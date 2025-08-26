@@ -1,0 +1,11 @@
+.reveal .slides {
+    background-color: #f0f0f0;  /* Light grey background */
+}
+
+.reveal {
+    font-family: 'Arial', sans-serif;
+}
+
+.reveal h1, .reveal h2 {
+    color: navy;
+}

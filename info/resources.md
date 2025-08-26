@@ -68,3 +68,7 @@ As with any tool that is at all outside of your own brain, you **must** obey any
 * The Github [repository](https://github.com/spencerahill/stat-methods-course) for this course website
 * [Module on git and github](https://geo-python-site.readthedocs.io/en/latest/lessons/L2/git-basics.html) from the [Geo-Python course](https://geo-python-site.readthedocs.io/en/latest/index.html)
 * [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) created by GitHub Education
+
+## Learning
+### Spaced repetition
+Storage strength vs. retrieval strength: https://fivetwelvethirteen.substack.com/p/retrieval-strength-and-storage-strength https://memorystrength.netlify.app

@@ -4,177 +4,154 @@ Here you can find the subject matter and assigned reading for every class day as
 
 Please check back here frequently as the schedule is subject to change.
 
-The textbook sections refer to [*Python Recipes for Earth Sciences* by Martin H. Trauth](https://link.springer.com/book/10.1007/978-3-031-07719-7).  PDF version is free.
-
-
 ```{list-table}
 :header-rows: 1
 :name: schedule
-:widths: 15 15 25 20 25
+:widths: 10 15 40 35
 
-* - Date (2023)
-  - Class number
+* - Class number
+  - Date (2025)
   - Topic
-  - Textbook sections
   - Notes
-* - M 8/28
-  - 1
-  - Course overview; [syllabus](./syllabus); [Numeracy](../lectures/intro)
-  - 1.1
+* - 1
+  - W 8/27
+  - Lecture 0: Course overview; [syllabus](./syllabus) 
   -
-* - W 8/30
-  - 2
-  - [Descriptive Statistics part I](../lectures/descriptive-statistics)
-  - 1.4, 3.1, 3.2,
+* - n/a
+  - M 9/1
+  - NO CLASS.  (Labor Day)
   -
-* - M 9/4
-  - NO CLASS
-  - Happy Labor Day!
+* - 2
+  - W 9/3
+  - Lab 0: Python basics; Jupyter and colab 
   -
+* - 3
+  - M 9/8
+  - Lecture 1: [Numeracy and data cleaning](../chapters/intro)
   -
-* - W 9/6
-  - 3
-  - [Descriptive Statistics part II](../lectures/descriptive-statistics)
-  -
-  -
-* - M 9/11
-  - 4
-  - Python bootcamp part I
-  - 2.1-2.3, 2.7, 2.8
-  - **Please bring your laptop with you to class!**  Homework #1 (HW1) assigned 
-* - W 9/13
-  - 5
-  - Python bootcamp part II
-  - 2.4, 2.5, 
-  - 2
-* - M 9/18
-  - 6
-  - Data Visualization I
-  - 2.9
-  -
-* - W 9/20
-  - 7
-  - Data Visualization II; Python: jupyter, matplotlib, numpy, netCDF4
+* - 4 
+  - W 9/10
+  - Lab 1: arrays (numpy, pandas, xarray)
   - 
-  - [**HW1**](../assignments/hw-descriptive-statistics) [**due by 11:59pm ET**](syllabus:hw)
-* - M 9/25
-  - NO CLASS
-  - Happy Yom Kippur!
-  -
-  - [HW2](../assignments/hw-data-viz) assigned
-* - W 9/27
-  - 8
-  - Probability I
-  - 3.4
+* - 5
+  - M 9/15
+  - Lecture 2: [Descriptive Statistics](../chapters/descriptive-statistics)
   - 
-* - M 10/2
-  - 9
-  - Probability II
-  - 3.5
+* - n/a
+  - W 9/17
+  - NO CLASS (Prof. traveling)
   -
-* - W 10/4
-  - 10
-  - Probability III
-  -
-  - [**HW2**](../assignments/hw-data-viz) [**due by 10:00pm ET**](syllabus:hw); 2-min final project in-class descriptions; 
-* - M 10/9
-  - NO CLASS
-  - Happy Columbus Day & Indigenous Peoples' Day!
-  -
+* - n/a
+  - M 9/22
+  - NO CLASS (Rosh Hashana)
   - 
-* - **T 10/10 2-3:15pm** *(note abnormal day of week)*
-  - 11
-  - Hypothesis testing intro; Python: [pandas](https://pandas.pydata.org/) and [xarray](https://docs.xarray.dev/en/stable/)
-  - 3.6
-  - [HW3](../assignments/hw-probability) assigned
-* - W 10/11
-  - 12
-  - Populations vs. samples; theoretical probability distributions
-  - 3.7
-  -
-* - M 10/16
-  - 13
-  - Hypothesis testing I
-  - 3.13, 3.14
-  -
-* - W 10/18
-  - 14
-  - Hypothesis testing II
-  - 4.1-4.4
-  - [**HW3**](../assignments/hw-probability) [**due by 10:00pm ET**](syllabus:hw)
-* - M 10/23
-  - 15
-  - Wrap hypothesis testing; Midterm 1 review
-  -
-  -
-* - W 10/25
-  - MT1
-  - MIDTERM 1
-  -
-  -
-* - M 10/30
-  - 16
-  - Science: Linear regression I
-  -
-  - [HW4](../assignments/hw-hypoth-tests) assigned
-* - W 11/1
-  - 17
-  - Tech: Python environments; final project specs
-  -
+* - n/a
+  - W 9/24
+  - NO CLASS (Rosh Hashana)
   - 
-* - M 11/6
-  - 18
-  - Science: Linear regression II
-  - 5.1
-  - [**HW4**](../assignments/hw-hypoth-tests) [**due**](syllabus:hw) Tuesday 11/7 by 10pm
-* - W 11/8
-  - 19
-  - Tech: ChatGPT
-  -
-  -
-* - M 11/13
-  - 20
-  - Time Series I
-  -
-  - [HW5](../assignments/hw-lin-regress-llms) assigned
-* - W 11/15
-  - 21
-  - Tech: Git and github
-  -
-  -
-* - M 11/20
-  - 22
-  - Time Series II (NO IN-PERSON CLASS; pre-recorded)
-  -
-  - [**HW5**](../assignments/hw-lin-regress-llms) [**due**](syllabus:hw) by 10pm; response to classmates' post due by 10pm Tuesday 11/21.
-* - W 11/22
-  - NO CLASS
-  - Happy Thanksgiving!
-  -
-  -
-* - M 11/27
-  - 23
-  - Time Series III
-  -
+* - 6
+  - M 9/29
+  - Lab 2: generative AI tools
   - 
-* - W 11/29
-  - 24
-  - Time Series IV
+* - n/a
+  - W 10/1
+  - NO CLASS (Yom Kippur)
   -
-  -
-* - M 12/4
-  - 25
-  - Final project presentations (1st of 2)
-  -
+* - 7
+  - M 10/6
+  - Lecture 3: Data visualization
   - 
-* - W 12/6
-  - 26
-  - Final project presentations (2nd of 2)
-  -
+* - 8
+  - W 10/8
+  - Lab 3: plotting (matplotlib)
   - 
-* - M 12/11
-  - MT2
-  - MIDTERM 2
+* - n/a
+  - M 10/13 
+  - NO CLASS (Columbus Day)
   -
+* - 9
+  - **T 10/14** *(note abnormal day of week)*
+  - Lecture 4a: Probability theory
+  - 
+* - 10 
+  - W 10/15
+  - Lecture 4b: Probability distributions
+  -
+* - n/a
+  - M 10/20
+  - NO CLASS (CCNY closed)
+  -
+* - 11
+  - W 10/22
+  - Lab 4: fitting distributions to data (scipy)
+  -
+* - 12
+  - **F 10/24** *(note abnormal day of week)*
+  - **MIDTERM 1**
+  -
+* - 13
+  - M 10/27
+  - Lecture 5: Hypothesis tests
+  -
+* - 14
+  - W 10/29
+  - Lab 5: t-tests (statsmodels) 
+  - 
+* - 15
+  - M 11/3
+  - Lecture 6: Linear regression
+  - 
+* - 16
+  - W 11/5
+  - Lab 6: linear regression (scikit-learn)
+  - 
+* - 17
+  - M 11/10
+  - Lecture 7: Timeseries analysis
+  -
+* - 18
+  - W 11/12
+  - Lab 7: timeseries analysis
+  - 
+* - 19
+  - M 11/17
+  - Lecture 8: spectral analysis
+  -
+* - 20
+  - W 11/19
+  - Lab 8: spectral analysis
+  - 
+* - 21
+  - M 11/24
+  - **MIDTERM 2**
+  -
+* - n/a
+  - W 11/26
+  - NO CLASS (Happy early Thanksgiving!)
+  - 
+* - 22
+  - M 12/1
+  - Lecture 9: Neural networks
+  -
+* - 23
+  - W 12/3
+  - Lab 9: neural networks (pytorch)
+  - 
+* - 24
+  - M 12/8
+  - Lecture 10: Other machine learning methods
+  - 
+* - 25
+  - W 12/10
+  - Lab 10: final project work time
+  -
+* - 26
+  - M 12/15
+  - Final project presentations
   -
 ```
+<!-- * - FINAL EXAM -->
+  <!-- - TBD; sometime within 12/16-12/22 -->
+  <!-- - Final grades posted 12/26 or earlier -->
+  <!-- - -->
+  <!-- - -->
