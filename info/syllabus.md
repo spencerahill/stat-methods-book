@@ -3,15 +3,13 @@
 ## EAS 42000/A4200: Statistical Methods in Earth and Atmospheric Sciences
 Note that, although the undergraduate (42000) and Master's (A4200) sections of this course have different names ("Statistical Methods" and "Quantitative Data Analysis" respectively), the two are taught together and other than the title are completely identical.  For brevity I'll refer to both just as "Statistical Methods in Earth and Atmospheric Sciences."
 
-[The class is also cross-listed in the CUNY Graduate Center [Department of Earth and Environmental Sciences](https://www.gc.cuny.edu/earth-and-environmental-sciences) (as EES 79903-45781) for their Ph.D. students, but as of writing this there are no students enrolled this semester that way.]
-
 ## Course Information
 - **Class Times**: Mondays and Wednesdays, 2:00-3:15pm; full schedule [here](./schedule).
-- **Location**: Marshak 829.  This is a very large computer lab; please sit in the first two rows on the left-hand-side (when facing the front of the room).  It also tends to be very cold, and I can't control the temperature...consider bringing a sweatshirt!
+- **Location**: Marshak 1128.  Be advised, I have no control over the thermostat, and depending on the day it can be very cold, very warm or in between!  Plan accordingly.
 - **Course Website**: [https://spencerahill.github.io/stat-methods-course](https://spencerahill.github.io/stat-methods-course)
 - **Instructor**: [Spencer Hill](https://www.ccny.cuny.edu/profiles/spencer-hill), Assistant Professor, CCNY Dept. of Earth and Atmospheric Sciences
 - **Email**: [shill1@ccny.cuny.edu](mailto:shill1@ccny.cuny.edu)
-- **Office Hours**: Mondays and Tuesdays, 3:30 to 4:30pm, and by appointment, Marshak 733.
+- **Office Hours**: Tuesdays, 1:30 to 2:30pm, and by appointment, Marshak 733.
 
 ## Course Description
 This course aims to provide you with a comprehensive understanding of statistical methods and other tools for quantitative data analysis in the Earth and Atmospheric Sciences.  We will explore topics including descriptive statistics, probability, and time series analysis, among others.  We will provide the necessary theoretical foundations for each technique introduced, but the bigger emphasis is on actually implementing and using them: by semester's end, you should be equipped with a functioning "toolbox" of statistical/quantitative tools that you both understand conceptually and can actually apply to problems you face in your research or other coursework. 
