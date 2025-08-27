@@ -4,11 +4,6 @@
 format: jb-book
 root: home
 parts: 
-  - caption: Course Information
-    chapters: 
-      - file: info/syllabus
-      - file: info/schedule
-      - file: info/resources
   - caption: Chapters
     numbered: 4
     chapters:
@@ -19,17 +14,6 @@ parts:
       - file: chapters/linear-regression
       - file: chapters/timeseries
       - file: chapters/spectral-analysis
+  - caption: Glossary
+    numbered: 0
       - file: chapters/glossary
-  # - caption: Assignments
-  #   numbered: 4
-  #   chapters:
-  #     - file: assignments/hw-descriptive-statistics
-  #     - file: assignments/hw-data-viz
-  #     - file: assignments/hw-probability
-  #     - file: assignments/hw-hypoth-tests
-  #     - file: assignments/hw-lin-regress-llms
-  # - caption: Final Project
-  #   numbered: 0
-  #   chapters:
-  #     - file: final-project/final-project
-
