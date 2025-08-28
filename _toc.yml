@@ -16,4 +16,5 @@ parts:
       - file: chapters/spectral-analysis
   - caption: Glossary
     numbered: 0
+    chapters:
       - file: chapters/glossary
