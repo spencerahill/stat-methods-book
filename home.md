@@ -1,14 +1,27 @@
 # EAS42000: Statistical Methods in Earth and Atmospheric Science
 
-*A course providing a toolbox of stastical methods useful in the Earth and Atmospheric Sciences.*
+Welcome to these *incomplete* lecture notes on Statistical Methods in Earth and Atmospheric Sciences!
 
 ## What is this?
-Welcome to these lecture notes on Statistical Methods in Earth and Atmospheric Sciences.  These cover the material for a semester-length course taught at [The City College of New York](https://www.ccny.cuny.edu/) (CCNY) in the [Department of Earth and Atmospheric Sciences](https://www.ccny.cuny.edu/eas) (EAS).  They were originally written by myself, [Spencer Hill](https://shill.ccny.cuny.edu/), in Fall 2023, while teaching this course for the first time.
+A collection of lecture notes published as a free, open-access [executable book](https://executablebooks.org/).
 
 ## Who is it for?
-The course is open to CCNY undergraduate students in EAS and other departments (as EAS 42000), EAS Masters students (as EAS A4200), and to PhD students in the [City *University* of New York](https://www.cuny.edu/) [Graduate Center](https://www.gc.cuny.edu/) [Department of Earth and Environmental Sciences](https://www.gc.cuny.edu/earth-and-environmental-sciences) (as EES 79903-45781).  For both Masters and PhD students, the official course title replaces "Stastical Methods" with "Quantitative Data Analysis."
+In short, anybody!
 
-That said, anybody---including you reading this now---are welcome to use any/all of these materials in your own teaching or learning.
+These cover the material for a semester-length course taught at [The City College of New York](https://www.ccny.cuny.edu/) (CCNY) in the [Department of Earth and Atmospheric Sciences](https://www.ccny.cuny.edu/eas) (EAS) for upper-division undergraduates and graduate students.  For example, [here](https://spencerahill.github.io/25f-stat-methods-course/home.html) is the site for the Fall 2025 iteration of that course.
+
+But our hope is that others in the world will find them useful too in some capacity!
+
+:::{warning}
+These are very much under construction!  While some chapters are pretty polished, others are essentially just baskets of code cells used to generate plots for the slides used in-class.  (Currently the slides are not publicly available, but eventually those will be made open-access also.) 
+:::
 
 ## What can I do with it?
-If you're anything other than a student currently enrolled in the course that I am teaching at CCNY, you are free to modify any of these materials however you see fit.  And I encourage you to suggest any changes or improvements---or even submit a pull request that would implement them---to the Github repository where they live, which you can access via [this link](https://github.com/spencerahill/stat-methods-course) or via the ["Octocat"](https://octodex.github.com/original/) silhouette logo at the top of this page.
+Pretty much anything!  This is 100% open-source software.  We sincerely hope you're able to use them in some way that advances your learning or teaching. 
+
+In particular, we'd love any suggestions for improvements, which you can submit by creating an [Issue](https://github.com/spencerahill/stat-methods-book/issues) or [Pull Request](https://github.com/spencerahill/stat-methods-book/pulls) on the [Github repository](https://github.com/spencerahill/stat-methods-book) where they live---which you can also find via the ["Octocat"](https://octodex.github.com/original/) silhouette logo at the top of this page.
+
+## Who made it?
+[Spencer Hill](https://shill.ccny.cuny.edu/) did, beginning in Fall 2023, while teaching the corresponding course at CCNY for the first time.  In summer 2025, the course-specific materials for each iteration of the class at CCNY were split off from this repo to their own dedicated repos.  
+
+And beginning in Fall 2025, students enrolled in the course at CCNY will begin contributing to the repo as part of an assignment to get them more comfortable with git and Github.  
