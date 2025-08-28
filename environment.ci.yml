@@ -1,22 +1,19 @@
-name: stats-book
+name: stats-book-ci
 channels:
   - conda-forge
 channel_priority: strict
 dependencies:
   - python
-  - pip
-  - jupyter
-  - jupyterlab
   - jupyter-book
-  - nodejs
-  - xarray
-  - astropy
+  - ipykernel
+  - pytorch >= 2.3  # earlier pytorch versions don't support numpy >=2.0 
+  - scikit-learn
+  - matplotlib 
   - netcdf4
+  - nc-time-axis
   - numpy
   - scipy
-  - scikit-learn
-  - matplotlib
-  - nc-time-axis
+  - xarray
   - hvplot
   - pip:
     - git+https://github.com/spencerahill/puffins.git
