@@ -1,9 +1,8 @@
 name: stats-book-ci
 channels:
   - conda-forge
-channel_priority: strict
 dependencies:
-  - python
+  - python=3.12
   - jupyter-book
   - ipykernel
   - pytorch >= 2.3  # earlier pytorch versions don't support numpy >=2.0 

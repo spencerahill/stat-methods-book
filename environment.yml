@@ -1,7 +1,6 @@
 name: stats-book
 channels:
   - conda-forge
-channel_priority: strict
 dependencies:
   - python
   - pip
@@ -18,7 +17,6 @@ dependencies:
   - matplotlib
   - nc-time-axis
   - hvplot
-  - pip:
-    - git+https://github.com/spencerahill/puffins.git
+
 
 
