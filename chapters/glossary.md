@@ -1,6 +1,8 @@
 # Glossary
-Note: unlike traditional glossaries, the entries here are not listed alphabetically.  They are organized by topic, and within each topic they are ordered in the sequence essentially that they appear in that topic.
 
+:::{note}
+Entries are organized by topic, rather than strictly alphabetically.  Within each topic, they are ordered in the sequence essentially that they appear in that topic.
+:::
 ```{glossary}
 ## Math and logic preliminaries
 
