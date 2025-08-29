@@ -1,4 +1,4 @@
-# EAS42000: Statistical Methods in Earth and Atmospheric Science
+# Statistical Methods in Earth and Atmospheric Science
 
 Welcome to these *incomplete* lecture notes on Statistical Methods in Earth and Atmospheric Sciences!
 
@@ -24,4 +24,4 @@ In particular, we'd love any suggestions for improvements, which you can submit 
 ## Who made it?
 [Spencer Hill](https://shill.ccny.cuny.edu/) did, beginning in Fall 2023, while teaching the corresponding course at CCNY for the first time.  In summer 2025, the course-specific materials for each iteration of the class at CCNY were split off from this repo to their own dedicated repos.  
 
-And beginning in Fall 2025, students enrolled in the course at CCNY will begin contributing to the repo as part of an assignment to get them more comfortable with git and Github.  
+And beginning in Fall 2025, students enrolled in the course at CCNY will begin contributing to the repo as part of an assignment to get them more comfortable with git and Github.
