@@ -2,19 +2,18 @@ name: stats-book-ci
 channels:
   - conda-forge
 dependencies:
-  - python=3.12
+  - python
   - jupyter-book
   - ipykernel
-  - pytorch >= 2.3  # earlier pytorch versions don't support numpy >=2.0 
-  - scikit-learn
+  - jupyter_bokeh
   - matplotlib 
-  - netcdf4
-  - nc-time-axis
+  - hvplot
   - numpy
   - scipy
+  - seaborn
   - xarray
-  - hvplot
-  - pip:
-    - git+https://github.com/spencerahill/puffins.git
-
+  - netcdf4
+  - nc-time-axis
+  - pytorch
+  - scikit-learn
 
